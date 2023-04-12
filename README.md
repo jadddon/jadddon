@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @jadonyariv
-- 👀 I’m interested in data science and crypto.
-- 🌱 I’m currently learning C++ and Solidity.
 - 📫 How to reach me: jadonyariv@gmail.com
 
 <!---
