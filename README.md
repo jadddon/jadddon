@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jadddon
-- 📫 How to reach me: jadonyariv@gmail.com
+- 📫 telegram @jadddon
 
 <!---
 jadonyariv/jadonyariv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
