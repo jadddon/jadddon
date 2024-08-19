@@ -1,7 +1,2 @@
-- 👋 Hi, I’m @jadddon
+- 👋 Hi, I’m @jadddon. I'm a graduate engineering student at Columbia, and I work at the New York Times.
 - 📫 telegram @jadddon
-
-<!---
-jadonyariv/jadonyariv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
