@@ -1,2 +1,2 @@
-- 👋 I'm a graduate engineering student at Columbia, and I work at the New York Times.
+- graduate engineering student at Columbia working at the New York Times
 - 📫 telegram @jadddon
