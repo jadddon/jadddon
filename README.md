@@ -1,2 +1,2 @@
 - graduate engineering student at Columbia working at the New York Times
-- 📫 telegram @jadddon
+- telegram @jadddon
