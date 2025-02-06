@@ -1,3 +1,2 @@
 - graduate engineering student at Columbia
-- data and insights group at The New York Times
-- telegram @jadddon
+- data and insights group at NYT
